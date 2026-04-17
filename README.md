@@ -10,7 +10,7 @@ This project predicts Air Quality Index (AQI) using historical data (2015–2025
 - **Visualization:** Chart.js, Plotly
 - **Machine Learning:** XGBoost Regressor
 
----git add
+
 
 ##  Features
 - AQI Prediction based on **state, area, month, and year**
@@ -44,13 +44,13 @@ The project uses a pre-trained model (`aqi_model.pkl`) and encoders (`state_enco
 
 ### 1. Clone the repository
 
-git clone https://github.com/VermaCodes2004/AQI-Prediction-System.git
-cd AQI-Prediction-System
+- git clone https://github.com/VermaCodes2004/AQI-Prediction-System.git
+- cd AQI-Prediction-System
 
 ### 2. Create virtual environment (recommended)
 
-python -m venv venv
-venv\Scripts\activate
+- python -m venv venv
+- venv\Scripts\activate
 
 ### 3. Install Dependencies
 
@@ -65,7 +65,7 @@ python app.py or py app.py
 http://127.0.0.1:5000
 
 
-
+---
 
 ##  Dataset
 - Historical AQI dataset (2015–2025)
@@ -74,4 +74,4 @@ http://127.0.0.1:5000
 ---
 
 ##  Author
-- VermaCodes2004
+- https://github.com/VermaCodes2004
