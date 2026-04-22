@@ -44,8 +44,8 @@ The project uses a pre-trained model (`aqi_model.pkl`) and encoders (`state_enco
 
 ### 1. Clone the repository
 
-- git clone https://github.com/VermaCodes2004/AQI-Prediction-System.git
-- cd AQI-Prediction-System
+- git clone https://github.com/Shreypatel0909/AQI_Prediction_Project.git
+- cd AQI_Prediction_Project
 
 ### 2. Create virtual environment (recommended)
 
@@ -74,4 +74,4 @@ http://127.0.0.1:5000
 ---
 
 ##  Author
-- https://github.com/VermaCodes2004
+- https://github.com/Shreypatel0909
